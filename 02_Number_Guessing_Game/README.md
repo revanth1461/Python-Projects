@@ -16,3 +16,6 @@ A simple beginner-friendly Python game where the computer randomly selects a num
 Clone the repository:
 ```bash
 git clone https://github.com/revanth1461/Python-Projects.git
+## 🖥️ Game Preview
+
+![Number Guessing Game](screenshot.png)
